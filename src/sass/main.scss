@@ -1,0 +1,29 @@
+@import '_bootstrap';
+@import '0-plugins/_plugins';
+@import '1-base/_base';
+@import '2-modules/_modules';
+@import '3-layouts/_layouts';
+
+
+//Delete this junk code and start from the sketch.............
+body{
+   text-align: center;
+   background-color: antiquewhite;
+   .landing{
+      padding-top: 100px;
+      span{         
+         vertical-align: middle;
+      }
+      h1{
+         color: forestgreen;
+         font-size: 70px;
+         span{
+            color: red;
+         }
+      }
+      p{
+         padding-top: 25px;
+         font-size: 25px;
+      }
+   }
+}

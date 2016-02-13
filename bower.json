@@ -1,0 +1,24 @@
+{
+  "name": "starterkit",
+  "description": "This starter kit is only for front-end development with Bootstrap",
+  "main": "gulpfile.js",
+  "authors": [
+    "Sk Arif"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "starterkit"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#^3.3.6"
+  }
+}
